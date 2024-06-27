@@ -1,0 +1,12 @@
+.mainContent {
+  margin-top: 80px;
+  margin-left: 300px;
+  max-width: 1700px;
+  padding: 0px 30px;
+}
+
+@media only screen and (max-width: 900px) {
+  .mainContent {
+    margin-left: 150px;
+  }
+}
